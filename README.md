@@ -20,9 +20,13 @@ Step 7: Terminate the program.
 
 ## PROGRAM: 
 clear;
+
 clc;
+
 n=input('no of buses');
+
 ele=input('no of elements');
+
 for i=1:ele
     s=input('starting bus');
     e=input('ending bus');
