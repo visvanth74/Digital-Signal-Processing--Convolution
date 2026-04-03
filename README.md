@@ -83,6 +83,7 @@ ybus
 
 ## OUTPUT:
 
-
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/c934f99d-d8e9-4247-a920-aa2fb05cd1b6" />
 ## RESULT:
 
+<img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/3d9f5a9c-d9a3-4b4f-83a8-85269beac836" />
